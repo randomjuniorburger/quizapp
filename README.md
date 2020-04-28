@@ -1,6 +1,8 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
+# NOTE: THIS IS A STUDENT RECREATION OF A MODULE WITHIN ANGEL YU'S SWIFT 5 BOOTCAMP
+
 #  Quizzler
 
 ## Our Goal
